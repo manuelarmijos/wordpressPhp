@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <estudiante ides="1"> 
+        <asignatura>Desarrollo de Software en Ambientes Cloud</asignatura>
+        <nombre>Manuel Stalin</nombre>
+        <apellido>Armijos Ordóñez</apellido>
+        <celular>0995868164</celular>  
+        <ciudad>Loja</ciudad>  
+        <programa>Maestría en Ingeniería en Software</programa>  
+        <fechaPresentacion>13 de Octubre del 2022</fechaPresentacion>  
+        <titulo>Ing. en sistemas</titulo>  
+        <cedula>1105593238</cedula>  
+    </estudiante>
+</dbp>
